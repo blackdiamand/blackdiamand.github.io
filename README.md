@@ -1,12 +1,12 @@
 # blackdiamand.github.io
-this is a website <br>
-
-why are you looking at it
-
-<br>
+this is a perpetually unfinished and buggy website <br>
 
 specifically it is my website
 
 <br> 
 
-cool
+so why are you looking at it
+
+<br>
+
+cool, i guess you're here then.
