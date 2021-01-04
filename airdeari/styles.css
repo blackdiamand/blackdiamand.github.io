@@ -1,0 +1,24 @@
+h1 {
+    font-family: Garamond, serif;
+    font-size: 15vmin;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: Garamond, serif;
+    font-size: 200%;
+}
+
+.align-text {
+    padding-left: 30%;
+}
+
+a {
+    color: white;
+}
+
+body {
+    background-image: url(/assets/sunrise.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
