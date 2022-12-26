@@ -26,16 +26,20 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+#remote_theme: pages-themes/hacker
 theme: minima
+#theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
+exclude:
+    - olds/
+    - Gemfile
+    - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
