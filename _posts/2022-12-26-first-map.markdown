@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First Map: Alaska 2022 General Election: Begich vs Peltola Hypothetical"
+date:   2022-12-26 16:19:00 -0800
+categories: maps
+---
+
