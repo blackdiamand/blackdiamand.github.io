@@ -4,4 +4,6 @@ title:  "First Map: Alaska 2022 General Election: Begich vs Peltola Hypothetical
 date:   2022-12-26 16:19:00 -0800
 categories: maps
 ---
+One day I will figure out how to allocate early/absentee votes to precincts. Until then, this will do. 
 
+![Peltola vs Begich](/assets/alaska/begich vs peltola (no allocations).jpeg)
