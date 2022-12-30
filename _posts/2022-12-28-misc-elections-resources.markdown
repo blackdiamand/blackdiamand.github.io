@@ -7,7 +7,7 @@ categories: maps
 
 ## A list of miscellaneous elections-related cool things to play around with
 
-### This page is also continually updating! Submit a pull request or message me if you have more!
+#### This page is also continually updating! Submit a pull request or message me if you have more!
 
 [Dave's Redistricting Atlas (2020 edition)](https://davesredistricting.org) The best tool for redistricting and random political mapmaking. There are a variety of tricks to do multi-state mapping as well.
  
