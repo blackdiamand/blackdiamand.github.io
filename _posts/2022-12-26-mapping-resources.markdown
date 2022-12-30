@@ -13,19 +13,28 @@ categories: maps
 
 [Cinyc text guide](https://twitter.com/cinyc9/status/944400295018106880)
 
+## Inkscape Mapping Guide
+
+[Wikipedia-style maps guide](https://twitter.com/Leftist_Kiwi/status/1608887909989613568)
 
 ## Data Guides
 
 [Linearly allocating early/absentee votes to precincts](https://www.youtube.com/watch?v=d2zz78RIPho)
 
 
-## US Data
+## US Data (modern, by precints)
 
 [Harvard VEST](https://dataverse.harvard.edu/dataverse/electionscience?q=&types=dataverses%3Adatasets%3Afiles&sort=dateSort&order=desc&page=1)
 
 [Harvard ROAD](https://road.hmdc.harvard.edu/data)
 
 [OpenElections](http://openelections.net/)
+
+## US Data (historical, usually by county)
+
+[Dave Leip's Atlas](https://uselectionatlas.org/RESULTS/)
+
+[OurCampaigns](https://www.ourcampaigns.com)
 
 
 ## Styles
