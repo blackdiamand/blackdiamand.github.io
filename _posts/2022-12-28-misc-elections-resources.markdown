@@ -21,3 +21,4 @@ categories: maps
 
 [270toWin](https://www.270towin.com/) Easily create maps and predictions of past, present, and future federal elections.
 
+[YAPms: Yet Another Political Map Simulator](https://www.yapms.com/) 270toWin but with more features with modern elections
