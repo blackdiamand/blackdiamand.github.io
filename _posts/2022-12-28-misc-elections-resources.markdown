@@ -10,8 +10,12 @@ categories: maps
 #### This page is also continually updating! Submit a pull request or message me if you have more!
 
 [Dave's Redistricting Atlas (2020 edition)](https://davesredistricting.org) The best tool for redistricting and random political mapmaking. There are a variety of tricks to do multi-state mapping as well.
+
+[Districtr](https://districtr.org) DRA but with fewer functions, but some states allow citizens to submit maps using Districtr
+
+[Redistricter](https://redistricter.com/) Upload your DRA maps here for a different view
  
-[Elections Daily's Election Shuffler](https://elections-daily.com/the-election-shuffler/)
+[Elections Daily's Election Shuffler](https://elections-daily.com/the-election-shuffler/) Quick way to make hypothetical maps
 
 [How Arbitrary is the Electoral College?](https://kevinhayeswilson.com/redraw/) Speedily redraw states and calculate the results on the Electoral college.
 
