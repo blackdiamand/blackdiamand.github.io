@@ -34,10 +34,11 @@ In the general election, Gara and Walker ended up splitting the not-Dunleavy vot
 
 ## The 2022 Alaska House of Representatives Special Election
 #### Sarah Palin (R) and Nick Begich III (R) vs Mary Peltola (D)
-This race has a long backstory (with Santa Claus involved), even before the special election. 
+[This race has a long backstory (with Santa Claus and lots of backstabbing involved), even before the special election.](https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-special-election-in-alaska/)
 
+The Alaska Republican Party's "Rank The Red" initiative was launched, but was unsuccessful because Republican candidates did not present a unified message. Palin actually appeared to help Peltola, praising her. This stems from the two's tenure together in the Alaska statehouse. In fact, Palin spent most of her energy attacking Begich. Begich then told his supporters to rank Palin second, yet continued to feud with Palin during the campaign.
 
-The Alaska Republican Party's "Rank The Red" initiative was started, but was unsuccessful. Palin actually appeared to help Peltola, praising her. In fact, Palin spent most of her energy attacking Begich. Begich then told his supporters to rank Palin second, yet continued to feud with Palin during the campaign.
+From a game theory perspective, Palin and Begich were victims of a prisoners' dilemma. 
 
 ## 2024 and beyond
 Democrats and aligned factions are united behind Peltola. There is no sufficiently large left faction to challenge her position. Incumbency is also a powerful advantage in Alaska, because in a low population state, it is easier to build relationships with constituents. We see this with home-state effects being more powerful in small states.
@@ -53,9 +54,7 @@ Ballot exhaustion rates were higher among the Republicans, due to Democrats' ten
 
 The high levels of ballot exhaustion (sometimes over 20%) are a troubling sign
 
-Psychology in a traditional runoff voting one candidate of each party makes it more partisan and more likely to vote for the lesser of two evils. 
-
-There 
+In a traditional runoff (like Georgia), having one candidate of each party makes the race more partisan. Thus, one is more likely to vote for the lesser of two evils. In contrast, with RCV people oftentimes do not rank beyond their first couple choices, leaving candidates they dislike unranked. 
 
 [We even see ballot exhaustion persist down the ticket, at the state legislative level.](https://alaskalandmine.com/landmines/why-republicans-tom-mckay-and-julie-coulombe-are-in-trouble-and-why-it-matters/)
 
@@ -63,3 +62,5 @@ There
 
 ## Conclusion
 Running multiple candidates of similar ideologies is usually detrimental due to ballot exhaustion and inefficient resource allocation. Coordination between candidates with similar ideologies is key. 
+
+And finally, RCV has a marginally good to highly positive effect on enabling more agreeable candidates to win! There is no scenario where the partisan primary system produces more representative winners than RCV. 
