@@ -5,6 +5,7 @@ date:   2023-01-05 16:19:00 -0800
 categories: alaska
 ---
 # How to Not Campaign in a Ranked Choice Election
+#### Don't attack your allies
 ## Background
 Alaska's new electoral system, adopted by voters in a 2020 referendum, has created some interesting results. In the first round (often referred to as a primary), voters have one vote for all candidates of all parties listed on the ballot. The top four vote-getters advance to the second round, the general election. Voters can then rank up to four candidates in an instant runoff system. 
 
@@ -36,9 +37,15 @@ In the general election, Gara and Walker ended up splitting the not-Dunleavy vot
 #### Sarah Palin (R) and Nick Begich III (R) vs Mary Peltola (D)
 [This race has a long backstory (with Santa Claus and lots of backstabbing involved), even before the special election.](https://fivethirtyeight.com/features/everything-you-need-to-know-about-the-special-election-in-alaska/)
 
-The Alaska Republican Party's "Rank The Red" initiative was launched, but was unsuccessful because Republican candidates did not present a unified message. Palin actually appeared to help Peltola, praising her. This stems from the two's tenure together in the Alaska statehouse. In fact, Palin spent most of her energy attacking Begich. Begich then told his supporters to rank Palin second, yet continued to feud with Palin during the campaign.
+Palin, the 2008 Vice Presidential candidate, was endorsed by Trump and represented the MAGA wing of the party, with her base in the Matanuska-Susitna borough, where she was formerly mayor of Wasilla. Nick Begich was a mainstream conservative, against the far-right wing of the Republican party. Peltola ran as a pragmatic candidate on the slogan "Fish, Family, Freedom", with her base in the Alaskan Bush. Expectations were that a Republican would easily win. 
 
-From a game theory perspective, Palin and Begich were victims of a prisoners' dilemma. 
+The Alaska Republican Party's "Rank The Red" initiative was launched to encourage ranking Republican candidatess, but was unsuccessful because Republican candidates did not present a unified message. Palin actually appeared to help Peltola, praising her. This stems from the two's tenure together in the Alaska statehouse. In fact, Palin spent most of her energy attacking Begich. 
+
+From a game theory perspective, Palin and Begich were victims of a prisoners' dilemma. Both should have attacked Peltola in a coordinated manner, but did not due to strategic and personal reasons. [In the special, Palin did not disclose who she would rank second](https://www.facebook.com/NicholasBegich/videos/759514225272919/?extid=CL-UNK-UNK-UNK-IOS_GK0T-GK1C&ref=sharing), while Begich cooperated and told his supporters to rank Palin second, yet continued to feud with Palin during the campaign. [After both Republicans lost the special election, Palin made an attempt to cooperate and told her supporters to rank Begich second, yet still continued the feud.](https://alaskapublic.org/2022/10/10/palin-and-begich-both-say-rank-the-red-while-diverging-in-style/)
+
+![Peltola vs Begich](/assets/alaska/gametheory.png)
+
+This simplistic scenario is not entirely accurate, but is good enough for a general overview of the election. 
 
 ## 2024 and beyond
 Democrats and aligned factions are united behind Peltola. There is no sufficiently large left faction to challenge her position. Incumbency is also a powerful advantage in Alaska, because in a low population state, it is easier to build relationships with constituents. We see this with home-state effects being more powerful in small states.
@@ -51,8 +58,6 @@ Therefore, Republicans will have multiple candidates advancing to the final roun
 Palin's voters were more likely to bullet vote than Begich's voters.
 
 Ballot exhaustion rates were higher among the Republicans, due to Democrats' tendencies to coalesce around one candidate more often.
-
-The high levels of ballot exhaustion (sometimes over 20%) are a troubling sign
 
 In a traditional runoff (like Georgia), having one candidate of each party makes the race more partisan. Thus, one is more likely to vote for the lesser of two evils. In contrast, with RCV people oftentimes do not rank beyond their first couple choices, leaving candidates they dislike unranked. 
 
