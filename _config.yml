@@ -39,6 +39,7 @@ exclude:
     - olds/blogspam
     - Gemfile
     - Gemfile.lock
+    - leafletmaps/
     - leafletmaps
 #   - node_modules
 #   - vendor/bundle/
