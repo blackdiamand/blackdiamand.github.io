@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Reflections on 2022 projections, or, why not to listen to pundits"
+date:   2023-07-13
+categories: maps
+---
+
+
+# My predictions in June 2022
+
+I bought into Galen Metzger's theory of continuing suburban realignment and persuasion early on. Then as the NY-19 and NY-23 special rolled along, it was shaping up to a roughly even to R+3 fundamentals-based environment.
+
+My homebrewed model was focused on "fundamentals" in a general sense, choosing the races with the highest residuals. I calculated I had a ~20pp edge over predictit odds with these picks. (pretty good return when considering the exorbiant fees)
+
+* MI-GOV: 85% D
+* NV-SEN: 65% R
+* WI-GOV: 60% D
+* PA-GOV: 80% D
+* NH-SEN: 80% D
+
+Pretty good, except that I doubted Ralston who only missed 1 race in the entirety of the state of Nevada (and even he tried to joke-delete his predictions). But there were always good chances to sell for a decent profit on election night.
+
+## Pundits had a bad record in 2022
+
+Pundits were victims of insane herding based on nothing more than vibes and dubious quality polling the last week before the election. A prime example is Pennsylvania's senate race. [The 538 deluxe model](https://projects.fivethirtyeight.com/2022-election-forecast/senate/pennsylvania/) showed a 15pp increase for Dr. Oz in the last week, almost entirely driven by expert ratings and Republican pollsters. In particular, the reverse-engineering by Sabato's Crystal Ball and Split Ticket was not grounded in reality. These two justified their picks by feeling that Republicans would win 51 Senate seats.
+
+
+
+In contrast, traditional pollsters such as Ann Selzer and NYT were vindicated. With the exception of Emerson who polled the wrong NM districts. [In particular that KS-03 poll which showed the Davids leading by 14 points](https://www.nytimes.com/interactive/2022/10/27/upshot/poll-crosstabs-ks03-nm02-nv01-pa08.html), ultimately dummymandering the Kansas map that Republicans needed to wheel their members out of the hospital to pass.
+
+## Conclusion
+
+Don't herd like pundits. The conventional Twitter wisdom is entirely based on vibes. Focus on the data, and you too can predict that Lauren Boebert is in trouble a week before everyone else does due to early vote data.
