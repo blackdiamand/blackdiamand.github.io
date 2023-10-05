@@ -18,4 +18,4 @@ Don't buy at over 50 cents. You have far more to lose and will lose if you panic
 
 Conventional/Pundit wisdom: don't follow it. You can make a ton of money betting against Cook et al. They have an incentive to "be mainstream".
 
-[Contact me on the Split Ticket Discord for more unsolicited ideas](https://discord.gg/SWXXJ477xQ)
+Thanks!
