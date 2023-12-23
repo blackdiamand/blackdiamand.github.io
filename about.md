@@ -8,7 +8,7 @@ Welcome to my site! Here I post my maps of whatever I find interesting.
 
 In addition, I may post election mapping guides if enough people are interested. 
 
-##### Unsolicited yet great tips for PredictIt and other prediction markets
+### Unsolicited yet great tips for PredictIt and other prediction markets
 
 I will not leak any of my edge/alpha before the resolution of a market. In fact, I actively withhold strategic information from others in comments and discussions, but do not actively mislead others (man, that has never happened before in that Rita Hart market).
 
