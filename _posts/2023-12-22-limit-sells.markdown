@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why limit sells are better than holding shares until resolution"
+title:  "Why limit sells are better than holding shares until resolution, for binary contracts"
 date:   2023-12-22 00:00:00
 categories: prediction-markets
 ---
