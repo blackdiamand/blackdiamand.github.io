@@ -22,7 +22,7 @@ For more information about Manifold, check out [the FAQ](/faq) or [this video](h
 
 ## Support
 
-[Here is Manifold's official API documentation.](/faq)
+[Here is Manifold's official API documentation.](https://docs.manifold.markets/faq)
 
 To connect with the Manifold community, consider joining the [Discord](https://discord.com/invite/eHQBNBqXuh), particularly the #api-and-bots channel.
 Here, you can find more information about Manifold's undocumented API, for advanced users.
