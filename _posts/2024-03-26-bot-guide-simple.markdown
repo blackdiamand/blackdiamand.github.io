@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Create the World's Simplest Free Trading Bot!
+title:  Create The World's Simplest Trading Bot, For Free!
 date:   2024-03-26
 categories: trading
 ---
