@@ -29,6 +29,3 @@ Aggregation of points will be done in a decaying format, or possibly, users may 
 
 These methods are mostly the same as Metaculus. The real innovation comes from the tie-in to an actual vibrant economy, which we hope will draw in many new users while giving valid, accurate predictions. 
 
-
-##### A quick aside
-[You can support PlayMoney's development and server costs on Manifund.](https://manifund.org/projects/play-money-prediction-markets) Right now, anyone can claim $100+ of donation money from Community Choice funds to redirect to any organization doing good, and an additional $100k of matching quadratic funding (though is quite unclear how this will be applied) is accessible for the next month.
