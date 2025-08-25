@@ -4,7 +4,21 @@ title: About me
 permalink: /about/
 ---
 
-Prolific engineer and enthusiast of prediction markets. 
+
+## about me
+
+Have you ever wanted to know what kind of person I really was? Then look no further.
+
+
+## stuff I do
+
+- Trying to beat [Folded](https://folded-three.vercel.app/) before retr0id hacks the site
+- Read Hacker News
+- Predict the future [sometimes with my bot](https://www.metaculus.com/accounts/profile/276163/)
+- Research in algorithmic economics
+- Attempt to 
+
 
 Email for any reason at any time about anything. 
 {{ site.email }}
+

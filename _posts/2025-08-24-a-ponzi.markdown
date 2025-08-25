@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "An extremely unsophisticated Ponzi scheme"
+date:   2025-08-24
+categories: maps
+---
+
