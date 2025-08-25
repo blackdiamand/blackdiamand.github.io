@@ -12,11 +12,13 @@ Have you ever wanted to know what kind of person I really was? Then look no furt
 
 ## stuff I do
 
-- Trying to beat [Folded](https://folded-three.vercel.app/) before retr0id hacks the site
+- Try to beat [Folded](https://folded-three.vercel.app/) before retr0id hacks the site
 - Read Hacker News
+- Read Money Stuff
 - Predict the future [sometimes with my bot](https://www.metaculus.com/accounts/profile/276163/)
 - Research in algorithmic economics
-- Attempt to 
+- Attempt to read research papers outside my wheelhouse
+- etc.
 
 
 Email for any reason at any time about anything. 
