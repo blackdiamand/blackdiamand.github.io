@@ -1,7 +1,31 @@
 ---
 layout: post
-title:  "An extremely unsophisticated Ponzi scheme"
+title:  "Aspects of an unsophisticated Ponzi scheme"
 date:   2025-08-24
 categories: misc
 ---
 
+## Intro
+
+Silicon Valley is home to some of the largest boom and bust cycles. Housing prices are among the highest in the world. Due to laws preventing more dense housing being built (though more dense housing has been built lately, and the YIMBY movement has been quite successful), most of the housing stock outside San Francisco was built around the 1960s. Mass produced, cookie cutter houses, such as the [Eichler](https://www.realtor.com/advice/buy/what-are-eichler-homes/) were common in this era. Recent upzoning laws have made real estate in the Bay Area is a potentially lucrative industry as a result. 
+
+
+## The Prospectus
+
+I found an original investor presentation. Must have fell off the back of a van.
+
+There were no significant financial details whatsoever, including the lack of a balance sheet especially, a very fundamental statement. Nothing about profitability, or any details on its balance sheet were presented, only a supposed 18 p. a. (per annum) return. This implies a roughly 39% net margin over two years, with an optimal construction timeline. So SiliconSage is magically profiting twice as much as the average homebuilder, whose net margin hovers around 10%. 
+
+![18% rate of return in the presentation](/assets/ponzi/irr.png)
+
+The creditor structuring was another massive red flag. If the investors get paid their 18% investment per year first, before the developer, why not solicit from a traditional bank? The only reason I could think of is adverse selection. Banks who specialize in construction loans would have seen right through their flawed business plan, while an individual investor (perhaps around 250 of them) simply lacked the expertise to evaluate the offering. All in all, the deal was too good to be true. 
+
+
+## It gets worse
+
+Many projects went over budget. But the investors never knew, because they did not get to see any detailed financials. SEC lawsuit filings stated that only one project managed to turn a profit (not this one). All other projects lost money. The old investors were paid their returns by new investors, a classic Ponzi scheme. It worked, until it didn't. Following the Matt Levine school of thought, in which [everything bad a company does is securities fraud](https://www.bloomberg.com/opinion/articles/2019-06-26/everything-everywhere-is-securities-fraud), the SEC, aided by a few defrauded investors, sued for securities fraud. The scheme ended up in receivership, and a bunch of investors were simply out their money.
+
+
+## Conclusion
+
+Everything is actually securities fraud. Avoid using your emotions while investing. The SEC said this was an affinity scam, targeting a highly ethnocentric group. 
